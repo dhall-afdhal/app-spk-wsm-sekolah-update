@@ -1,7 +1,18 @@
-# 🎓 SPK WSM Sekolah - Sistem Pendukung Keputusan
-
+# 🎓 Sistem Pendukung Keputusan Penentuan Sekolah Terbaik di Kabupaten Bireuen Menggunakan Metode Weighted Sum Model (WSM)
+---
 <div align="center">
-  <img src="public/img/logo.png" alt="Logo SPK WSM" width="120">
+  🖼️ Dokumentasi Sistem <br><br>
+
+| No | Judul Tampilan | Gambar | Deskripsi |
+|----|---------------|--------|-----------|
+| 1 | **Rumus Lengkap Perhitungan WSM (Excel)** | ![](https://raw.githubusercontent.com/dhall-afdhal/app-spk-wsm-sekolah-update/main/resources/img/exsel-full-rumus.png) | Menampilkan referensi rumus lengkap metode Weighted Sum Model (WSM) dalam bentuk Excel sebagai acuan perhitungan manual dan validasi sistem. |
+| 2 | **Halaman Manajemen Kriteria** | ![](https://raw.githubusercontent.com/dhall-afdhal/app-spk-wsm-sekolah-update/main/resources/img/image.3.png) | Halaman untuk mengelola kriteria penilaian sekolah, termasuk bobot kriteria dan jenis kriteria (Benefit atau Cost) yang digunakan dalam metode WSM. |
+| 3 | **Dashboard Sistem** | ![](https://raw.githubusercontent.com/dhall-afdhal/app-spk-wsm-sekolah-update/main/resources/img/image1.png) | Dashboard utama yang menyajikan ringkasan data sekolah, kriteria, serta akses cepat ke proses perhitungan dan hasil keputusan. |
+| 4 | **Manajemen Data Sekolah** | ![](https://raw.githubusercontent.com/dhall-afdhal/app-spk-wsm-sekolah-update/main/resources/img/image2.png) | Fitur pengelolaan data sekolah sebagai alternatif keputusan, meliputi tambah, ubah, hapus, dan melihat daftar sekolah. |
+| 5 | **Input Nilai Sekolah** | ![](https://raw.githubusercontent.com/dhall-afdhal/app-spk-wsm-sekolah-update/main/resources/img/image5.png) | Halaman input nilai setiap sekolah terhadap seluruh kriteria yang membentuk matriks keputusan dalam metode WSM. |
+| 6 | **Hasil Perhitungan dan Ranking** | ![](https://raw.githubusercontent.com/dhall-afdhal/app-spk-wsm-sekolah-update/main/resources/img/image6.png) | Menampilkan hasil normalisasi, nilai preferensi (Vi), serta peringkat sekolah terbaik berdasarkan metode Weighted Sum Model (WSM). |
+
+---
   <br><br>
   
   ![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -81,7 +92,7 @@ Jika Anda tertarik untuk menggunakan **versi lengkap (Real Project)** dari aplik
 
 MIT License
 
-Copyright (c) 2020-2025 Afdhal & DHA Production
+Copyright (c) 2020-2026 Afdhal & DHA Production
 
 ---
 
